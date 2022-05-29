@@ -1,0 +1,10 @@
+.App {
+  text-align: center;
+  width: 100%;
+}
+.todo-list-app {
+  width: 60%;
+  margin: 50px auto;
+  background: #f9f9f9;
+  padding: 30px;
+}
